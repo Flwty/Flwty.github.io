@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'HWSong';
+    font-display: swap;
+    src: url('../fonts/HWSong.ttf') format("truetype");
+}
+body {
+    font-family: 'HWSong';
+}
