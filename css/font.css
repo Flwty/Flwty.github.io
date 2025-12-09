@@ -1,7 +1,7 @@
 @font-face{
     font-family: 'HWSong';
     font-display: swap;
-    src: url('../fonts/HWSong.ttf') format("truetype");
+    src: url('/fonts/HWSong.woff2') format("woff2");
 }
 @font-face{
     font-family: 'KBSong';
@@ -16,7 +16,7 @@
 @font-face{
     font-family: 'Type';
     font-display: swap;
-    src: url('/fonts/type.ttf') format("truetype");
+    src: url('/fonts/type.woff2') format("woff2");
 }
 body {
     font-family: "Type", 'HWSong', serif;

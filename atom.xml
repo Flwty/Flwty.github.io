@@ -6,7 +6,7 @@
   <link href="https://flwty.cn/atom.xml" rel="self"/>
   
   <link href="https://flwty.cn/"/>
-  <updated>2025-12-09T05:39:06.769Z</updated>
+  <updated>2025-12-09T08:20:56.655Z</updated>
   <id>https://flwty.cn/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://flwty.cn/2025/12/09/%E9%AD%94%E6%94%B9%E8%AE%A1%E5%88%9201-%E5%85%B5%E9%A9%AC%E6%9C%AA%E5%8A%A8%EF%BC%8C%E7%B2%AE%E8%8D%89%E5%85%88%E8%A1%8C/"/>
     <id>https://flwty.cn/2025/12/09/%E9%AD%94%E6%94%B9%E8%AE%A1%E5%88%9201-%E5%85%B5%E9%A9%AC%E6%9C%AA%E5%8A%A8%EF%BC%8C%E7%B2%AE%E8%8D%89%E5%85%88%E8%A1%8C/</id>
     <published>2025-12-08T16:00:00.000Z</published>
-    <updated>2025-12-09T05:39:06.769Z</updated>
+    <updated>2025-12-09T08:20:56.655Z</updated>
     
-    <content type="html"><![CDATA[<p>关于以后的魔改，现在先找一点<strong>攻略</strong>。</p><p>暂时粘在这里，以便后续调取：</p><ul><li><a href="https://snowtafir.top/posts/2020bkm9.html">星雪的魔改笔记</a>，特别详细！</li><li><a href="https://jezer.top/posts/3dae3a99/">Jezer的魔改攻略</a>，重点看里面改透明度的部分。</li></ul><p>Good luck</p><p>哦对了还有字体方面的问题，我曾经用内嵌字体但是移动端加载太慢了，以至于根本打不开。得研究一下在线字体，美化一下页面。</p>]]></content>
+    <content type="html"><![CDATA[<p>关于以后的魔改，现在先找一点<strong>攻略</strong>。</p><p>暂时粘在这里，以便后续调取：</p><ul><li><a href="https://snowtafir.top/posts/2020bkm9.html">星雪的魔改笔记</a>，特别详细！</li><li><a href="https://jezer.top/posts/3dae3a99/">Jezer的魔改攻略</a>，重点看里面改透明度的部分。</li><li><a href="https://butterfly.zhheo.com/create.html">很详细的魔改教程</a></li></ul><p>Good luck</p><p>哦对了还有字体方面的问题，我曾经用内嵌字体但是移动端加载太慢了，以至于根本打不开。得研究一下在线字体，美化一下页面。</p><h2 id="正在进行的魔改："><a href="#正在进行的魔改：" class="headerlink" title="正在进行的魔改："></a>正在进行的魔改：</h2><ol><li>更改了menu的图标</li><li>对css进行整合（好像是什么异步加载）</li></ol>]]></content>
     
     
       
@@ -271,34 +271,6 @@
   </entry>
   
   <entry>
-    <title>电视摄像构图</title>
-    <link href="https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE/"/>
-    <id>https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE/</id>
-    <published>2025-09-07T01:50:57.840Z</published>
-    <updated>2025-12-08T15:55:19.001Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="机位安排要求"><a href="#机位安排要求" class="headerlink" title="机位安排要求"></a>机位安排要求</h2><ul><li>场景全覆盖</li><li>符合轴线原则</li><li>机位间的组接流畅</li><li>不干扰现场活动秩序</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;机位安排要求&quot;&gt;&lt;a href=&quot;#机位安排要求&quot; class=&quot;headerlink&quot; title=&quot;机位安排要求&quot;&gt;&lt;/a&gt;机位安排要求&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;场景全覆盖&lt;/li&gt;
-&lt;li&gt;符合轴线原则&lt;/li&gt;
-&lt;li&gt;机位间的组接流畅&lt;/li&gt;
-&lt;li</summary>
-      
-    
-    
-    
-    <category term="笔记" scheme="https://flwty.cn/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="电视摄像" scheme="https://flwty.cn/tags/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>电视摄像构图（二）</title>
     <link href="https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
     <id>https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
@@ -323,21 +295,22 @@
   </entry>
   
   <entry>
-    <title>光线及电视照明</title>
-    <link href="https://flwty.cn/2025/09/07/%E5%85%89%E7%BA%BF%E5%8F%8A%E7%94%B5%E8%A7%86%E7%85%A7%E6%98%8E/"/>
-    <id>https://flwty.cn/2025/09/07/%E5%85%89%E7%BA%BF%E5%8F%8A%E7%94%B5%E8%A7%86%E7%85%A7%E6%98%8E/</id>
-    <published>2025-09-07T01:50:57.830Z</published>
-    <updated>2025-12-08T15:55:20.909Z</updated>
+    <title>电视摄像构图</title>
+    <link href="https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE/"/>
+    <id>https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE/</id>
+    <published>2025-09-07T01:50:57.840Z</published>
+    <updated>2025-12-09T11:28:16.645Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="光的方向"><a href="#光的方向" class="headerlink" title="光的方向"></a>光的方向</h2><ul><li><p>顺光<br>0°-30°  </p></li><li><p>顺侧光<br>30°-60°<br>具有一定的灰度层次  </p></li><li><p>正侧光<br>90°<br>阴阳脸，暗面中细节全部丢失  </p></li><li><p>逆光|后侧光<br>为主体打上轮廓光<br>在拍摄上优先开A档，尽量提升主体曝光，但要避免轮廓区产生大面积光斑（提高光圈所带来的）  </p></li><li><p>顶光<br>正午即顶光，此时户外拍摄多用全景或中景，避免拍近景（光线难看）<br>也可以用作轮廓光，稍微加一点，前侧光把面部阴影处打亮即可</p></li></ul><h2 id="色彩"><a href="#色彩" class="headerlink" title="色彩"></a>色彩</h2><ul><li>白平衡校正<br>将物体颜色还原于人眼所观察到的颜色<br>在色彩繁多的舞台环境下，白平衡开手动，这样颜色不会不时改动</li></ul><iframe src="//player.bilibili.com/player.html?aid=802998410&bvid=BV1ry4y1p7u6&cid=335625363&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<h2 id="机位安排要求"><a href="#机位安排要求" class="headerlink" title="机位安排要求"></a>机位安排要求</h2><ul><li>场景全覆盖</li><li>符合轴线原则</li><li>机位间的组接流畅</li><li>不干扰现场活动秩序</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;光的方向&quot;&gt;&lt;a href=&quot;#光的方向&quot; class=&quot;headerlink&quot; title=&quot;光的方向&quot;&gt;&lt;/a&gt;光的方向&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;顺光&lt;br&gt;0°-30°  &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;顺侧光&lt;br&gt;30°-60°&lt;br&gt;具有一</summary>
+    <summary type="html">&lt;h2 id=&quot;机位安排要求&quot;&gt;&lt;a href=&quot;#机位安排要求&quot; class=&quot;headerlink&quot; title=&quot;机位安排要求&quot;&gt;&lt;/a&gt;机位安排要求&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;场景全覆盖&lt;/li&gt;
+&lt;li&gt;符合轴线原则&lt;/li&gt;
+&lt;li&gt;机位间的组接流畅&lt;/li&gt;
+&lt;li</summary>
       
     
     
@@ -350,23 +323,27 @@
   </entry>
   
   <entry>
-    <title>手记</title>
-    <link href="https://flwty.cn/2025/09/07/%E6%89%8B%E8%AE%B0/"/>
-    <id>https://flwty.cn/2025/09/07/%E6%89%8B%E8%AE%B0/</id>
+    <title>为什么白色字体加粗并不明显</title>
+    <link href="https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/"/>
+    <id>https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/</id>
     <published>2025-09-07T01:50:57.830Z</published>
-    <updated>2025-12-08T15:55:21.516Z</updated>
+    <updated>2025-12-08T15:55:23.155Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="一些事情"><a href="#一些事情" class="headerlink" title="一些事情"></a>一些事情</h2><h3 id="有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。"><a href="#有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。" class="headerlink" title="有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。"></a>有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。</h3>]]></content>
+    <content type="html"><![CDATA[<p><strong>比</strong>如这个  </p><p>比<strong>如</strong>这个  </p><p>比如<strong>这</strong>个  </p><p>比如这<strong>个</strong>  </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;一些事情&quot;&gt;&lt;a href=&quot;#一些事情&quot; class=&quot;headerlink&quot; title=&quot;一些事情&quot;&gt;&lt;/a&gt;一些事情&lt;/h2&gt;&lt;h3 id=&quot;有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。&quot;&gt;&lt;a href=&quot;#有时候就很神</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;比&lt;/strong&gt;如这个  &lt;/p&gt;
+&lt;p&gt;比&lt;strong&gt;如&lt;/strong&gt;这个  &lt;/p&gt;
+&lt;p&gt;比如&lt;strong&gt;这&lt;/strong&gt;个  &lt;/p&gt;
+&lt;p&gt;比如这&lt;strong&gt;个&lt;/strong&gt;  &lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="关于我自己的一些事" scheme="https://flwty.cn/categories/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/"/>
+    <category term="小问题" scheme="https://flwty.cn/categories/%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
     
     
     <category term="随手" scheme="https://flwty.cn/tags/%E9%9A%8F%E6%89%8B/"/>
@@ -398,6 +375,33 @@
   </entry>
   
   <entry>
+    <title>光线及电视照明</title>
+    <link href="https://flwty.cn/2025/09/07/%E5%85%89%E7%BA%BF%E5%8F%8A%E7%94%B5%E8%A7%86%E7%85%A7%E6%98%8E/"/>
+    <id>https://flwty.cn/2025/09/07/%E5%85%89%E7%BA%BF%E5%8F%8A%E7%94%B5%E8%A7%86%E7%85%A7%E6%98%8E/</id>
+    <published>2025-09-07T01:50:57.830Z</published>
+    <updated>2025-12-08T15:55:20.909Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="光的方向"><a href="#光的方向" class="headerlink" title="光的方向"></a>光的方向</h2><ul><li><p>顺光<br>0°-30°  </p></li><li><p>顺侧光<br>30°-60°<br>具有一定的灰度层次  </p></li><li><p>正侧光<br>90°<br>阴阳脸，暗面中细节全部丢失  </p></li><li><p>逆光|后侧光<br>为主体打上轮廓光<br>在拍摄上优先开A档，尽量提升主体曝光，但要避免轮廓区产生大面积光斑（提高光圈所带来的）  </p></li><li><p>顶光<br>正午即顶光，此时户外拍摄多用全景或中景，避免拍近景（光线难看）<br>也可以用作轮廓光，稍微加一点，前侧光把面部阴影处打亮即可</p></li></ul><h2 id="色彩"><a href="#色彩" class="headerlink" title="色彩"></a>色彩</h2><ul><li>白平衡校正<br>将物体颜色还原于人眼所观察到的颜色<br>在色彩繁多的舞台环境下，白平衡开手动，这样颜色不会不时改动</li></ul><iframe src="//player.bilibili.com/player.html?aid=802998410&bvid=BV1ry4y1p7u6&cid=335625363&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;光的方向&quot;&gt;&lt;a href=&quot;#光的方向&quot; class=&quot;headerlink&quot; title=&quot;光的方向&quot;&gt;&lt;/a&gt;光的方向&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;顺光&lt;br&gt;0°-30°  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;顺侧光&lt;br&gt;30°-60°&lt;br&gt;具有一</summary>
+      
+    
+    
+    
+    <category term="笔记" scheme="https://flwty.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="电视摄像" scheme="https://flwty.cn/tags/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>文本切分与关键词选择</title>
     <link href="https://flwty.cn/2025/09/07/%E6%96%87%E6%9C%AC%E5%88%87%E5%88%86%E4%B8%8E%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%89%E6%8B%A9/"/>
     <id>https://flwty.cn/2025/09/07/%E6%96%87%E6%9C%AC%E5%88%87%E5%88%86%E4%B8%8E%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%89%E6%8B%A9/</id>
@@ -424,27 +428,23 @@
   </entry>
   
   <entry>
-    <title>为什么白色字体加粗并不明显</title>
-    <link href="https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/"/>
-    <id>https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/</id>
+    <title>手记</title>
+    <link href="https://flwty.cn/2025/09/07/%E6%89%8B%E8%AE%B0/"/>
+    <id>https://flwty.cn/2025/09/07/%E6%89%8B%E8%AE%B0/</id>
     <published>2025-09-07T01:50:57.830Z</published>
-    <updated>2025-12-08T15:55:23.155Z</updated>
+    <updated>2025-12-08T15:55:21.516Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>比</strong>如这个  </p><p>比<strong>如</strong>这个  </p><p>比如<strong>这</strong>个  </p><p>比如这<strong>个</strong>  </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一些事情"><a href="#一些事情" class="headerlink" title="一些事情"></a>一些事情</h2><h3 id="有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。"><a href="#有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。" class="headerlink" title="有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。"></a>有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。</h3>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;strong&gt;比&lt;/strong&gt;如这个  &lt;/p&gt;
-&lt;p&gt;比&lt;strong&gt;如&lt;/strong&gt;这个  &lt;/p&gt;
-&lt;p&gt;比如&lt;strong&gt;这&lt;/strong&gt;个  &lt;/p&gt;
-&lt;p&gt;比如这&lt;strong&gt;个&lt;/strong&gt;  &lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;一些事情&quot;&gt;&lt;a href=&quot;#一些事情&quot; class=&quot;headerlink&quot; title=&quot;一些事情&quot;&gt;&lt;/a&gt;一些事情&lt;/h2&gt;&lt;h3 id=&quot;有时候就很神奇，脑子里想的总会被误以为现实。回顾时如大梦初醒般，发现全是虚幻。&quot;&gt;&lt;a href=&quot;#有时候就很神</summary>
       
     
     
     
-    <category term="小问题" scheme="https://flwty.cn/categories/%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
+    <category term="关于我自己的一些事" scheme="https://flwty.cn/categories/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/"/>
     
     
     <category term="随手" scheme="https://flwty.cn/tags/%E9%9A%8F%E6%89%8B/"/>

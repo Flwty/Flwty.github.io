@@ -1625,7 +1625,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 14px;
+  --global-font-size: 15px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -7974,3 +7974,197 @@ blockquote.pullquote.right {
     transform: rotate(360deg);
   }
 }
+@font-face {
+  font-family: 'HWSong';
+  src: url('/fonts/HWSong.woff2') format('woff2');
+  font-display: swap; /* 使用回退字体直到自定义字体加载完毕 */
+}
+
+@font-face {
+  font-family: 'Type';
+  src: url('/fonts/type.woff2') format('woff2');
+  font-display: swap; /* 使用回退字体直到自定义字体加载完毕 */
+}
+
+body {
+    font-family: "Type", 'HWSong', serif;
+}
+
+/* 液态玻璃风格配置变量 */
+:root {
+  /* 背景透明度 (0-1) */
+  --glassmorphism-opacity: 0.3;
+  /* 圆角大小 */
+  --glassmorphism-radius: 10px;
+  /* 毛玻璃模糊度 */
+  --glassmorphism-blur: 10px;
+}
+
+/* 液态玻璃基础样式 */
+.glassmorphism {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-items > .recent-post-item {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 首页侧栏卡片 */
+.card-widget {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity)) !important;
+  backdrop-filter: blur(var(--glassmorphism-blur)) !important;
+  border-radius: var(--glassmorphism-radius) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+/* 文章页面正文背景 */
+div#post {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 分页页面 */
+div#page {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 归档页面 */
+div#archive {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 标签页面 */
+div#tag {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 分类页面 */
+div#category {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+
+/* 液态玻璃风格配置变量 */
+:root {
+  /* 背景透明度 (0-1) */
+  --glassmorphism-opacity: 0.3;
+  /* 圆角大小 */
+  --glassmorphism-radius: 30px;
+  /* 毛玻璃模糊度 */
+  --glassmorphism-blur: 20px;
+}
+
+/* 液态玻璃基础样式 */
+.glassmorphism {
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 首页侧栏卡片 */
+.card-widget{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity))!important;
+  backdrop-filter: blur(var(--glassmorphism-blur))!important;
+  border-radius: var(--glassmorphism-radius)!important;
+  border: 1px solid rgba(255, 255, 255, 0.2)!important;
+}
+
+/* 文章页面正文背景 */
+div#post{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 分页页面 */
+div#page{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 归档页面 */
+div#archive{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 标签页面 */
+div#tag{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 分类页面 */
+div#category{
+  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
+  backdrop-filter: blur(var(--glassmorphism-blur));
+  border-radius: var(--glassmorphism-radius);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 页脚透明 */
+#footer{
+  background: transparent!important;
+}
+/* 页脚黑色透明玻璃效果移除 */
+#footer::before{
+    background: transparent!important;
+  }
+/* 头图透明 */
+#page-header{
+  background: transparent!important;
+}
+/* 头图遮罩层透明 */
+#page-header::before{
+  background: transparent!important;
+  }
+/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+#page-header.post-bg:before {
+  background-color: transparent!important;
+}
+/*夜间模式伪类遮罩层透明*/
+[data-theme="dark"]
+  #footer::before{
+      background: transparent!important;
+    }
+[data-theme="dark"]
+  #page-header::before{
+    background: transparent!important;
+    }
