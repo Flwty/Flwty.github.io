@@ -3,6 +3,24 @@
     font-display: swap;
     src: url('../fonts/HWSong.ttf') format("truetype");
 }
+@font-face{
+    font-family: 'KBSong';
+    font-display: swap;
+    src: url('/fonts/KBSong.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'Mono';
+    font-display: swap;
+    src: url('/fonts/DTM-Mono-1.otf') format("truetype");
+}
+@font-face{
+    font-family: 'Type';
+    font-display: swap;
+    src: url('/fonts/type.ttf') format("truetype");
+}
 body {
-    font-family: 'HWSong';
+    font-family: "Type", 'HWSong', serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Type", 'KBSong', serif;
 }
