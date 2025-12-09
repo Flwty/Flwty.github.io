@@ -6,7 +6,7 @@
   <link href="https://flwty.cn/atom.xml" rel="self"/>
   
   <link href="https://flwty.cn/"/>
-  <updated>2025-12-09T05:12:52.035Z</updated>
+  <updated>2025-12-09T05:39:06.769Z</updated>
   <id>https://flwty.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://flwty.cn/2025/12/09/%E9%AD%94%E6%94%B9%E8%AE%A1%E5%88%9201-%E5%85%B5%E9%A9%AC%E6%9C%AA%E5%8A%A8%EF%BC%8C%E7%B2%AE%E8%8D%89%E5%85%88%E8%A1%8C/"/>
     <id>https://flwty.cn/2025/12/09/%E9%AD%94%E6%94%B9%E8%AE%A1%E5%88%9201-%E5%85%B5%E9%A9%AC%E6%9C%AA%E5%8A%A8%EF%BC%8C%E7%B2%AE%E8%8D%89%E5%85%88%E8%A1%8C/</id>
     <published>2025-12-08T16:00:00.000Z</published>
-    <updated>2025-12-09T05:12:52.035Z</updated>
+    <updated>2025-12-09T05:39:06.769Z</updated>
     
     <content type="html"><![CDATA[<p>关于以后的魔改，现在先找一点<strong>攻略</strong>。</p><p>暂时粘在这里，以便后续调取：</p><ul><li><a href="https://snowtafir.top/posts/2020bkm9.html">星雪的魔改笔记</a>，特别详细！</li><li><a href="https://jezer.top/posts/3dae3a99/">Jezer的魔改攻略</a>，重点看里面改透明度的部分。</li></ul><p>Good luck</p><p>哦对了还有字体方面的问题，我曾经用内嵌字体但是移动端加载太慢了，以至于根本打不开。得研究一下在线字体，美化一下页面。</p>]]></content>
     
@@ -247,6 +247,30 @@
   </entry>
   
   <entry>
+    <title>电视摄像构图（二）</title>
+    <link href="https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
+    <published>2025-09-07T01:50:57.840Z</published>
+    <updated>2025-12-08T15:55:19.770Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="如何处理多人对话当中的轴线问题？"><a href="#如何处理多人对话当中的轴线问题？" class="headerlink" title="如何处理多人对话当中的轴线问题？"></a>如何处理多人对话当中的轴线问题？</h2><p>在一个多人对话场景当中，如果你拍摄的轴线乱了，那么画面看起来就可能十分跳跃，观众就会觉得突兀，看着不舒服。<br>把<strong>轴线问题</strong>解决了，只要你动作是连贯的，怎么接都没有问题。  </p><h3 id="一-什么是轴线"><a href="#一-什么是轴线" class="headerlink" title="(一) 什么是轴线"></a>(一) 什么是轴线</h3><blockquote><p>简单的说就是在拍摄两个及以上的人物时，人物之间会形成一条<strong>假想的线</strong>，这条线就是轴线。  </p></blockquote><p>只要摄像机在轴线的<strong>同侧</strong>设置机位，观众就不会对画面当中人物的位置关系感到错乱。  </p><p>先拿双人场景来解释一下轴线。  </p><p><img src="/picture/axis/line1.jpg" alt="理解轴线" title="理解轴线">  </p><p>这是最常见的双人对话场景，连接两个人视线的这条线就是轴线。  </p><p>只要摄像机都放在轴线的一侧，那么镜头衔接就不会有跳跃感。</p><p><img src="/picture/axis/line2.jpg" alt="中景+正反打镜头" title="中景+正反打镜头">  </p><blockquote><p>上图是影视剧最常用的<strong>中景+正反打</strong>的镜头，你会发现这三个镜头无论怎么接都是流畅的。  </p></blockquote><p>因为在轴线的<strong>同一侧</strong>拍摄，左边的女人视线方向是看向画面右边的，而右边的男人是看向画面左边的，两人的视线正好是相对的。  </p><h3 id="（二）越轴会怎样"><a href="#（二）越轴会怎样" class="headerlink" title="（二）越轴会怎样"></a>（二）越轴会怎样</h3><p>如果一个镜头在轴线的一侧拍，另一个镜头在轴线另一侧会出什么问题呢？  </p><p><img src="/picture/axis/line3.jpg" alt="越轴" title="越轴">  </p><blockquote><p>仅仅跨越了轴线就会让观众迷惑，明明相对的两个人却好像看的是同一个方向。  </p></blockquote><p>所以简单来说，只要在拍摄的时候，保证所有的镜头都是在<strong>轴线的同一侧拍摄</strong>的，那么画面就不会出现跳跃感，观众就能清晰的感知到角色的位置关系。  </p><h3 id="（三）轴线的一侧可以设置哪些机位"><a href="#（三）轴线的一侧可以设置哪些机位" class="headerlink" title="（三）轴线的一侧可以设置哪些机位"></a>（三）轴线的一侧可以设置哪些机位</h3><p><img src="/picture/axis/line4.jpg" alt="正反打" title="正反打">  </p><blockquote><p>上图就是一般拍摄中常说的双人中景（Cam1），内正反打（Cam2、Cam3），外正反打（Cam4、Cam5）  </p></blockquote><p>内正反打和外正反打的区别就是：<br>内正反打只会拍单个的人物<br>而外正反打则会带上另外一个人物的肩或者身体的一部分，也就是拍摄时常说的带关系镜头。  </p><p>弄明白了轴线，拍摄关系镜头的时候，挂哪边的肩就很清楚了。  </p><p>另外多提一句，当想要着重体现人物之间的关系的时候，无论是位置关系还是心理关系，更倾向于使用关系镜头即<strong>外正反打</strong>；当想要着重体现人物的状态的时候，更倾向于<strong>内正反打</strong>。  </p><h3 id="（四）骑轴拍摄"><a href="#（四）骑轴拍摄" class="headerlink" title="（四）骑轴拍摄"></a>（四）骑轴拍摄</h3><p>除了在轴线一侧拍摄之外，拍摄时还可以像下图一样把机位定在两个人物之间，正对着人物拍摄，一般称为<strong>骑轴镜头</strong>。  </p><p><img src="/picture/axis/line5.jpg" alt="骑轴" title="骑轴">  </p><blockquote><p>这种情况下，摄像机虽然放在了轴线上，但仍然没有越轴，和中景一起剪辑的时候，仍然是顺畅的。  </p></blockquote><p>骑轴拍摄的情况下，人物更有争锋相对的意味，是戏剧<strong>矛盾达到高潮</strong>的时候常用的手法。  </p><p>有些情况下，骑轴镜头也会作为越轴前的<strong>过渡镜头</strong>。  </p><p><img src="/picture/axis/line6.jpg" alt="越轴" title="越轴">  </p><blockquote><p>在上图当中中景镜头从轴线一侧跨越到另外一侧，就是利用骑轴镜头作为过渡。使衔接更流畅。  </p></blockquote><p>轴线是拍摄当中构建出的一个规则，遵守这个规则会让拍摄更容易。但这并不意味着这个规则不能被打破。电影当中一些规则被打破时往往让画面和故事更具有张力。  </p><p>所以有一些合理的越轴的方法，比如：骑轴过渡，特写过渡，全景过渡，摄影机运动越过轴线等等。我就不一一举例了。有兴趣的可以看看**《十二公民》**，里面用到了很多越轴技巧。  </p><h3 id="（五）多人对话"><a href="#（五）多人对话" class="headerlink" title="（五）多人对话"></a>（五）多人对话</h3><p>双人对话的轴线关系是多人对话的基础。<strong>在多人对话场景当中，我们通常会把人群进行分组，把一组人当做一个人来做关系轴线</strong>。  </p><p>人越多的时候，越需要给关键的人物近景和特写。  </p><p>以《十二公民》来举例的话就是：  </p><p><img src="/picture/axis/line7.jpg" alt="十二公民" title="十二公民1">   </p><center><h6>这组人可以看做是一个</h6></center>  <p><img src="/picture/axis/line8.jpg" alt="十二公民" title="十二公民2">   </p><p><img src="/picture/axis/line9.jpg" alt="十二公民" title="十二公民3">   </p><center><h6>这个镜头可以看做是双人全景</h6></center>  <p><img src="/picture/axis/line10.jpg" alt="十二公民" title="十二公民4">   </p><center><h6>镜头越轴</h6></center>  <p><img src="/picture/axis/line11.jpg" alt="越轴" title="越轴">  </p><blockquote><p>上图可以看到除了最后一个镜头，前面三个镜头都是在轴线一侧拍摄的，只不过人一多，让人有点模糊轴线的位置。  </p></blockquote><p>我们把它简化一下，一组人变成一个人，就会发现其实不过就是内正反打，外正反打加一个越轴。  </p><p><img src="/picture/axis/line12.jpg" alt="越轴" title="越轴">   </p><p>那么为什么这个地方越轴不会觉得跳跃呢？  </p><ul><li>第一是上下两个镜头都是全景，让人很清楚左右人的位置关系  </li><li>第二，有一个人是站着的，他就相当于一个参考点，当镜头发生变化时，观众可以通过他的位置得知其他人的位置。如果所有人都是坐下的，这个镜头就没有那么顺畅了。</li></ul><p>其他的多人对话关系，都可以根据以上进行推导，就不再多说了。  </p><h2 id="多人对话当中如何选择合适的景别"><a href="#多人对话当中如何选择合适的景别" class="headerlink" title="多人对话当中如何选择合适的景别?"></a>多人对话当中如何选择合适的景别?</h2><p>至于这个问题，简单的说就是：  </p><ul><li>全景：主要负责渲染环境气氛，交代人物位置关系，展现人物动作  </li><li>中景：主要负责交代人物之间的关系，展现人物的肢体动作  </li><li>近景：主要负责展现人物的情绪，反应  </li><li>特写：主要负责重点凸显关键的人物或道具细节（因为是重点，所以不要随便给特写）</li></ul><p>文章来源：<a href="https://www.zhihu.com/question/301382157">轴线及景别问题</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;如何处理多人对话当中的轴线问题？&quot;&gt;&lt;a href=&quot;#如何处理多人对话当中的轴线问题？&quot; class=&quot;headerlink&quot; title=&quot;如何处理多人对话当中的轴线问题？&quot;&gt;&lt;/a&gt;如何处理多人对话当中的轴线问题？&lt;/h2&gt;&lt;p&gt;在一个多人对话场景当中，如果</summary>
+      
+    
+    
+    
+    <category term="笔记" scheme="https://flwty.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="电视摄像" scheme="https://flwty.cn/tags/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>电视摄像构图</title>
     <link href="https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE/"/>
     <id>https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE/</id>
@@ -263,30 +287,6 @@
 &lt;li&gt;符合轴线原则&lt;/li&gt;
 &lt;li&gt;机位间的组接流畅&lt;/li&gt;
 &lt;li</summary>
-      
-    
-    
-    
-    <category term="笔记" scheme="https://flwty.cn/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="电视摄像" scheme="https://flwty.cn/tags/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电视摄像构图（二）</title>
-    <link href="https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <id>https://flwty.cn/2025/09/07/%E7%94%B5%E8%A7%86%E6%91%84%E5%83%8F%E6%9E%84%E5%9B%BE%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
-    <published>2025-09-07T01:50:57.840Z</published>
-    <updated>2025-12-08T15:55:19.770Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="如何处理多人对话当中的轴线问题？"><a href="#如何处理多人对话当中的轴线问题？" class="headerlink" title="如何处理多人对话当中的轴线问题？"></a>如何处理多人对话当中的轴线问题？</h2><p>在一个多人对话场景当中，如果你拍摄的轴线乱了，那么画面看起来就可能十分跳跃，观众就会觉得突兀，看着不舒服。<br>把<strong>轴线问题</strong>解决了，只要你动作是连贯的，怎么接都没有问题。  </p><h3 id="一-什么是轴线"><a href="#一-什么是轴线" class="headerlink" title="(一) 什么是轴线"></a>(一) 什么是轴线</h3><blockquote><p>简单的说就是在拍摄两个及以上的人物时，人物之间会形成一条<strong>假想的线</strong>，这条线就是轴线。  </p></blockquote><p>只要摄像机在轴线的<strong>同侧</strong>设置机位，观众就不会对画面当中人物的位置关系感到错乱。  </p><p>先拿双人场景来解释一下轴线。  </p><p><img src="/picture/axis/line1.jpg" alt="理解轴线" title="理解轴线">  </p><p>这是最常见的双人对话场景，连接两个人视线的这条线就是轴线。  </p><p>只要摄像机都放在轴线的一侧，那么镜头衔接就不会有跳跃感。</p><p><img src="/picture/axis/line2.jpg" alt="中景+正反打镜头" title="中景+正反打镜头">  </p><blockquote><p>上图是影视剧最常用的<strong>中景+正反打</strong>的镜头，你会发现这三个镜头无论怎么接都是流畅的。  </p></blockquote><p>因为在轴线的<strong>同一侧</strong>拍摄，左边的女人视线方向是看向画面右边的，而右边的男人是看向画面左边的，两人的视线正好是相对的。  </p><h3 id="（二）越轴会怎样"><a href="#（二）越轴会怎样" class="headerlink" title="（二）越轴会怎样"></a>（二）越轴会怎样</h3><p>如果一个镜头在轴线的一侧拍，另一个镜头在轴线另一侧会出什么问题呢？  </p><p><img src="/picture/axis/line3.jpg" alt="越轴" title="越轴">  </p><blockquote><p>仅仅跨越了轴线就会让观众迷惑，明明相对的两个人却好像看的是同一个方向。  </p></blockquote><p>所以简单来说，只要在拍摄的时候，保证所有的镜头都是在<strong>轴线的同一侧拍摄</strong>的，那么画面就不会出现跳跃感，观众就能清晰的感知到角色的位置关系。  </p><h3 id="（三）轴线的一侧可以设置哪些机位"><a href="#（三）轴线的一侧可以设置哪些机位" class="headerlink" title="（三）轴线的一侧可以设置哪些机位"></a>（三）轴线的一侧可以设置哪些机位</h3><p><img src="/picture/axis/line4.jpg" alt="正反打" title="正反打">  </p><blockquote><p>上图就是一般拍摄中常说的双人中景（Cam1），内正反打（Cam2、Cam3），外正反打（Cam4、Cam5）  </p></blockquote><p>内正反打和外正反打的区别就是：<br>内正反打只会拍单个的人物<br>而外正反打则会带上另外一个人物的肩或者身体的一部分，也就是拍摄时常说的带关系镜头。  </p><p>弄明白了轴线，拍摄关系镜头的时候，挂哪边的肩就很清楚了。  </p><p>另外多提一句，当想要着重体现人物之间的关系的时候，无论是位置关系还是心理关系，更倾向于使用关系镜头即<strong>外正反打</strong>；当想要着重体现人物的状态的时候，更倾向于<strong>内正反打</strong>。  </p><h3 id="（四）骑轴拍摄"><a href="#（四）骑轴拍摄" class="headerlink" title="（四）骑轴拍摄"></a>（四）骑轴拍摄</h3><p>除了在轴线一侧拍摄之外，拍摄时还可以像下图一样把机位定在两个人物之间，正对着人物拍摄，一般称为<strong>骑轴镜头</strong>。  </p><p><img src="/picture/axis/line5.jpg" alt="骑轴" title="骑轴">  </p><blockquote><p>这种情况下，摄像机虽然放在了轴线上，但仍然没有越轴，和中景一起剪辑的时候，仍然是顺畅的。  </p></blockquote><p>骑轴拍摄的情况下，人物更有争锋相对的意味，是戏剧<strong>矛盾达到高潮</strong>的时候常用的手法。  </p><p>有些情况下，骑轴镜头也会作为越轴前的<strong>过渡镜头</strong>。  </p><p><img src="/picture/axis/line6.jpg" alt="越轴" title="越轴">  </p><blockquote><p>在上图当中中景镜头从轴线一侧跨越到另外一侧，就是利用骑轴镜头作为过渡。使衔接更流畅。  </p></blockquote><p>轴线是拍摄当中构建出的一个规则，遵守这个规则会让拍摄更容易。但这并不意味着这个规则不能被打破。电影当中一些规则被打破时往往让画面和故事更具有张力。  </p><p>所以有一些合理的越轴的方法，比如：骑轴过渡，特写过渡，全景过渡，摄影机运动越过轴线等等。我就不一一举例了。有兴趣的可以看看**《十二公民》**，里面用到了很多越轴技巧。  </p><h3 id="（五）多人对话"><a href="#（五）多人对话" class="headerlink" title="（五）多人对话"></a>（五）多人对话</h3><p>双人对话的轴线关系是多人对话的基础。<strong>在多人对话场景当中，我们通常会把人群进行分组，把一组人当做一个人来做关系轴线</strong>。  </p><p>人越多的时候，越需要给关键的人物近景和特写。  </p><p>以《十二公民》来举例的话就是：  </p><p><img src="/picture/axis/line7.jpg" alt="十二公民" title="十二公民1">   </p><center><h6>这组人可以看做是一个</h6></center>  <p><img src="/picture/axis/line8.jpg" alt="十二公民" title="十二公民2">   </p><p><img src="/picture/axis/line9.jpg" alt="十二公民" title="十二公民3">   </p><center><h6>这个镜头可以看做是双人全景</h6></center>  <p><img src="/picture/axis/line10.jpg" alt="十二公民" title="十二公民4">   </p><center><h6>镜头越轴</h6></center>  <p><img src="/picture/axis/line11.jpg" alt="越轴" title="越轴">  </p><blockquote><p>上图可以看到除了最后一个镜头，前面三个镜头都是在轴线一侧拍摄的，只不过人一多，让人有点模糊轴线的位置。  </p></blockquote><p>我们把它简化一下，一组人变成一个人，就会发现其实不过就是内正反打，外正反打加一个越轴。  </p><p><img src="/picture/axis/line12.jpg" alt="越轴" title="越轴">   </p><p>那么为什么这个地方越轴不会觉得跳跃呢？  </p><ul><li>第一是上下两个镜头都是全景，让人很清楚左右人的位置关系  </li><li>第二，有一个人是站着的，他就相当于一个参考点，当镜头发生变化时，观众可以通过他的位置得知其他人的位置。如果所有人都是坐下的，这个镜头就没有那么顺畅了。</li></ul><p>其他的多人对话关系，都可以根据以上进行推导，就不再多说了。  </p><h2 id="多人对话当中如何选择合适的景别"><a href="#多人对话当中如何选择合适的景别" class="headerlink" title="多人对话当中如何选择合适的景别?"></a>多人对话当中如何选择合适的景别?</h2><p>至于这个问题，简单的说就是：  </p><ul><li>全景：主要负责渲染环境气氛，交代人物位置关系，展现人物动作  </li><li>中景：主要负责交代人物之间的关系，展现人物的肢体动作  </li><li>近景：主要负责展现人物的情绪，反应  </li><li>特写：主要负责重点凸显关键的人物或道具细节（因为是重点，所以不要随便给特写）</li></ul><p>文章来源：<a href="https://www.zhihu.com/question/301382157">轴线及景别问题</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;如何处理多人对话当中的轴线问题？&quot;&gt;&lt;a href=&quot;#如何处理多人对话当中的轴线问题？&quot; class=&quot;headerlink&quot; title=&quot;如何处理多人对话当中的轴线问题？&quot;&gt;&lt;/a&gt;如何处理多人对话当中的轴线问题？&lt;/h2&gt;&lt;p&gt;在一个多人对话场景当中，如果</summary>
       
     
     
@@ -326,6 +326,32 @@
   </entry>
   
   <entry>
+    <title>文本切分与关键词选择</title>
+    <link href="https://flwty.cn/2025/09/07/%E6%96%87%E6%9C%AC%E5%88%87%E5%88%86%E4%B8%8E%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%89%E6%8B%A9/"/>
+    <id>https://flwty.cn/2025/09/07/%E6%96%87%E6%9C%AC%E5%88%87%E5%88%86%E4%B8%8E%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%89%E6%8B%A9/</id>
+    <published>2025-09-07T01:50:57.830Z</published>
+    <updated>2025-12-08T15:55:23.903Z</updated>
+    
+    <content type="html"><![CDATA[<p>切分前，需要做的：文本数据采集  </p><p>通过爬虫可以爬取一些数据，但部分网站有反爬虫机制，可以使用网站开放的软件接口对接方式进行数据汇集  </p><p>通过底层数据交换进行仿真数据采集，但是只有http协议的未经交换数据加密的网站可以如此，现在网站大多为https协议，从而使网络节点上的监听接口失效  </p><p>二代爬虫：模拟浏览器采集信息  </p><p>使用beautiful soup 采集网页内容  </p><p>语料库：<br>- 国家语委现代汉语语料库<br>- anc</p><p>词库：<br>- <a href="http://thuocl.thunlp.org/">http://thuocl.thunlp.org/</a><br>- </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;切分前，需要做的：文本数据采集  &lt;/p&gt;
+&lt;p&gt;通过爬虫可以爬取一些数据，但部分网站有反爬虫机制，可以使用网站开放的软件接口对接方式进行数据汇集  &lt;/p&gt;
+&lt;p&gt;通过底层数据交换进行仿真数据采集，但是只有http协议的未经交换数据加密的网站可以如此，现在网站大多为htt</summary>
+      
+    
+    
+    
+    <category term="笔记" scheme="https://flwty.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="计算传播" scheme="https://flwty.cn/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>推几个神专，里面真的每首都特别好听</title>
     <link href="https://flwty.cn/2025/09/07/%E6%8E%A8%E5%87%A0%E4%B8%AA%E7%A5%9E%E4%B8%93%EF%BC%8C%E9%87%8C%E9%9D%A2%E7%9C%9F%E7%9A%84%E6%AF%8F%E9%A6%96%E9%83%BD%E7%89%B9%E5%88%AB%E5%A5%BD%E5%90%AC/"/>
     <id>https://flwty.cn/2025/09/07/%E6%8E%A8%E5%87%A0%E4%B8%AA%E7%A5%9E%E4%B8%93%EF%BC%8C%E9%87%8C%E9%9D%A2%E7%9C%9F%E7%9A%84%E6%AF%8F%E9%A6%96%E9%83%BD%E7%89%B9%E5%88%AB%E5%A5%BD%E5%90%AC/</id>
@@ -350,28 +376,30 @@
   </entry>
   
   <entry>
-    <title>文本切分与关键词选择</title>
-    <link href="https://flwty.cn/2025/09/07/%E6%96%87%E6%9C%AC%E5%88%87%E5%88%86%E4%B8%8E%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%89%E6%8B%A9/"/>
-    <id>https://flwty.cn/2025/09/07/%E6%96%87%E6%9C%AC%E5%88%87%E5%88%86%E4%B8%8E%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%89%E6%8B%A9/</id>
+    <title>为什么白色字体加粗并不明显</title>
+    <link href="https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/"/>
+    <id>https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/</id>
     <published>2025-09-07T01:50:57.830Z</published>
-    <updated>2025-12-08T15:55:23.903Z</updated>
+    <updated>2025-12-08T15:55:23.155Z</updated>
     
-    <content type="html"><![CDATA[<p>切分前，需要做的：文本数据采集  </p><p>通过爬虫可以爬取一些数据，但部分网站有反爬虫机制，可以使用网站开放的软件接口对接方式进行数据汇集  </p><p>通过底层数据交换进行仿真数据采集，但是只有http协议的未经交换数据加密的网站可以如此，现在网站大多为https协议，从而使网络节点上的监听接口失效  </p><p>二代爬虫：模拟浏览器采集信息  </p><p>使用beautiful soup 采集网页内容  </p><p>语料库：<br>- 国家语委现代汉语语料库<br>- anc</p><p>词库：<br>- <a href="http://thuocl.thunlp.org/">http://thuocl.thunlp.org/</a><br>- </p>]]></content>
+    <content type="html"><![CDATA[<p><strong>比</strong>如这个  </p><p>比<strong>如</strong>这个  </p><p>比如<strong>这</strong>个  </p><p>比如这<strong>个</strong>  </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;切分前，需要做的：文本数据采集  &lt;/p&gt;
-&lt;p&gt;通过爬虫可以爬取一些数据，但部分网站有反爬虫机制，可以使用网站开放的软件接口对接方式进行数据汇集  &lt;/p&gt;
-&lt;p&gt;通过底层数据交换进行仿真数据采集，但是只有http协议的未经交换数据加密的网站可以如此，现在网站大多为htt</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;比&lt;/strong&gt;如这个  &lt;/p&gt;
+&lt;p&gt;比&lt;strong&gt;如&lt;/strong&gt;这个  &lt;/p&gt;
+&lt;p&gt;比如&lt;strong&gt;这&lt;/strong&gt;个  &lt;/p&gt;
+&lt;p&gt;比如这&lt;strong&gt;个&lt;/strong&gt;  &lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="笔记" scheme="https://flwty.cn/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="小问题" scheme="https://flwty.cn/categories/%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
     
     
-    <category term="计算传播" scheme="https://flwty.cn/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD/"/>
+    <category term="随手" scheme="https://flwty.cn/tags/%E9%9A%8F%E6%89%8B/"/>
     
   </entry>
   
@@ -400,27 +428,27 @@
   </entry>
   
   <entry>
-    <title>为什么白色字体加粗并不明显</title>
-    <link href="https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/"/>
-    <id>https://flwty.cn/2025/09/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BD%E8%89%B2%E5%AD%97%E4%BD%93%E5%8A%A0%E7%B2%97%E5%B9%B6%E4%B8%8D%E6%98%8E%E6%98%BE/</id>
-    <published>2025-09-07T01:50:57.830Z</published>
-    <updated>2025-12-08T15:55:23.155Z</updated>
+    <title>走在路上</title>
+    <link href="https://flwty.cn/2025/01/20/%E8%B5%B0%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <id>https://flwty.cn/2025/01/20/%E8%B5%B0%E5%9C%A8%E8%B7%AF%E4%B8%8A/</id>
+    <published>2025-01-19T16:00:00.000Z</published>
+    <updated>2025-12-09T05:41:51.419Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>比</strong>如这个  </p><p>比<strong>如</strong>这个  </p><p>比如<strong>这</strong>个  </p><p>比如这<strong>个</strong>  </p>]]></content>
+    <content type="html"><![CDATA[<p>我走在路上。 </p><p>路是白色的。</p><p>白色并非无暇，棋盘般的黑线附着其上。白块上分布着些简约风格的桌椅，有的旁边还插着一把大遮阳伞。</p><p>我看不到它们，正如我看不见地上的一块块小白陶砖。</p><p>“原来地面是一块块小瓷砖！”我感到惊叹。</p><p>可是惊叹须臾间化为恐惧，我不能看见它们！我看得专注，甚至显得木讷。时间在流逝，我看得越久，它们越是清晰，它们的狰狞面孔越是显露。丑陋至极的缝隙蜿蜒在砖石表面，沙尘寄居其中，蚁虫满身石砾，来回扭动。圣洁的白似乎也在失色，纯黑的车辙印，土色的脚印，<strong>甚至原有的白色也在渐渐褪色</strong>……</p><p>越渴望看见它们，看到的却越非它们。那么索性闭上眼睛吧。</p><p>狰狞面孔瞬间瓦解，裂痕愈合，蚁虫重归于昏暗。于是，路的形象也随之消解了。但它仍残存于世间，我虽然看不见它，但是它分明在向我大声疾呼，展示化作为步伐间感受到的阵阵压力。此时，为外在所规定的路的形象，如碎鳞般剥离，路回归了它的本质，作为纯粹功能的本质。</p><p><strong>路又重新回来了</strong>。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;strong&gt;比&lt;/strong&gt;如这个  &lt;/p&gt;
-&lt;p&gt;比&lt;strong&gt;如&lt;/strong&gt;这个  &lt;/p&gt;
-&lt;p&gt;比如&lt;strong&gt;这&lt;/strong&gt;个  &lt;/p&gt;
-&lt;p&gt;比如这&lt;strong&gt;个&lt;/strong&gt;  &lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;我走在路上。 &lt;/p&gt;
+&lt;p&gt;路是白色的。&lt;/p&gt;
+&lt;p&gt;白色并非无暇，棋盘般的黑线附着其上。白块上分布着些简约风格的桌椅，有的旁边还插着一把大遮阳伞。&lt;/p&gt;
+&lt;p&gt;我看不到它们，正如我看不见地上的一块块小白陶砖。&lt;/p&gt;
+&lt;p&gt;“原来地面是一块块小瓷砖！”我感到惊叹。&lt;</summary>
       
     
     
     
-    <category term="小问题" scheme="https://flwty.cn/categories/%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
+    <category term="随笔" scheme="https://flwty.cn/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
     <category term="随手" scheme="https://flwty.cn/tags/%E9%9A%8F%E6%89%8B/"/>
