@@ -7999,6 +7999,34 @@ body {
   --glassmorphism-blur: 20px;
 }
 
+/* 文字可读性增强 - 所有容器内的文字加深色或阴影 */
+.card-widget,
+#recent-posts > .recent-post-item,
+div#post,
+div#page,
+div#archive,
+div#tag,
+div#category {
+  color: rgba(0, 0, 0, 0.85);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* 标题加粗和颜色调整 */
+.card-widget h3,
+.card-widget h4,
+.card-widget h5,
+#recent-posts .recent-post-item h2,
+#post h1,
+#post h2,
+#post h3,
+#page h1,
+#page h2,
+#page h3 {
+  color: rgba(0, 0, 0, 0.95);
+  font-weight: 600;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+
 /* 液态玻璃基础样式 */
 .glassmorphism {
   background: rgba(255, 255, 255, var(--glassmorphism-opacity));
