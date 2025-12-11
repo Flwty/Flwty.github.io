@@ -7989,144 +7989,74 @@ body {
     font-family: 'Noto Serif SC', 'Type', -apple-system, BlinkMacSystemFont, 'Segoe UI', serif;
 }
 
-/* 液态玻璃风格配置变量 */
+/* ==================== 液态玻璃终极版（已修复桌面长文模糊失效） ==================== */
 :root {
-  /* 背景透明度 (0-1) */
-  --glassmorphism-opacity: 0.35;
-  /* 圆角大小 */
-  --glassmorphism-radius: 30px;
-  /* 毛玻璃模糊度 */
-  --glassmorphism-blur: 20px;
+  --glass-bg: rgba(255, 255, 255, 0.35);   /* 亮模式玻璃透明度 */
+  --glass-blur: 20px;                    /* 模糊度 */
+  --glass-radius: 30px;                  /* 圆角 */
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* 文字可读性增强 - 所有容器内的文字加深色或阴影 */
-.card-widget,
+/* 夜间模式自动切换成黑玻璃（更好看） */
+[data-theme="dark"] {
+  --glass-bg: rgba(20, 20, 35, 0.5);      /* 暗玻璃，更深更高级 */
+}
+
+/* 所有需要玻璃效果的元素（一行搞定） */
 #recent-posts > .recent-post-item,
-div#post,
-div#page,
-div#archive,
-div#tag,
-div#category {
-  color: rgba(0, 0, 0, 0.85);
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+#recent-posts > .recent-post-items > .recent-post-item,
+.card-widget,
+#post, #page, #archive, #tag, #category,
+.page-number, .extend, .current {
+  background: var(--glass-bg) !important;
+  backdrop-filter: blur(var(--glass-blur)) !important;
+  -webkit-backdrop-filter: blur(var(--glass-blur)) !important;
+  border-radius: var(--glass-radius) !important;
+  border: var(--glass-border) !important;
+  
+  /* 关键：彻底解决桌面端长文章模糊消失 */
+  will-change: transform;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
-/* 标题加粗和颜色调整 */
-.card-widget h3,
-.card-widget h4,
-.card-widget h5,
-#recent-posts .recent-post-item h2,
-#post h1,
-#post h2,
-#post h3,
-#page h1,
-#page h2,
-#page h3 {
-  color: rgba(0, 0, 0, 0.95);
-  font-weight: 600;
+/* ==================== 文字可读性增强（亮底深字） ==================== */
+#post, #page, #archive, #tag, #category,
+.card-widget,
+#recent-posts > .recent-post-item {
+  color: rgba(0, 0, 0, 0.88) !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+}
+
+/* 标题更深更醒目 */
+#post h1, #post h2, #post h3, #post h4, #post h5,
+#page h1, #page h2, #page h3,
+.card-widget h3, .card-widget h4, .card-widget h5,
+#recent-posts .recent-post-item h2 {
+  color: rgba(0, 0, 0, 0.95) !important;
+  font-weight: 600 !important;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
 
-/* 液态玻璃基础样式 */
-.glassmorphism {
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+/* ==================== 一图流 + 完全透明区域 ==================== */
+#footer,
+#page-header,
+#page-header::before,
+#footer::before,
+#page-header.post-bg::before {
+  background: transparent !important;
 }
 
-/* 首页文章卡片 */
-/* #recent-posts > .recent-post-item{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-} */
-
-#recent-posts > .recent-post-items>.recent-post-item{
-  background:rgba(255,255,255,var(--glassmorphism-opacity));
-  -webkit-backdrop-filter:blur(var(--glassmorphism-blur));
-  backdrop-filter:blur(var(--glassmorphism-blur));
-  border-radius:var(--glassmorphism-radius);
-  border:1px solid rgba(255,255,255,0.2)
+/* 夜间模式也保持透明 */
+[data-theme="dark"] #footer::before,
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
 }
 
-/* 首页侧栏卡片 */
-.card-widget{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity))!important;
-  backdrop-filter: blur(var(--glassmorphism-blur))!important;
-  border-radius: var(--glassmorphism-radius)!important;
-  border: 1px solid rgba(255, 255, 255, 0.2)!important;
+/* ==================== 可选：给侧栏个人信息卡也加上玻璃（更统一） ==================== */
+#aside-content .card-widget.card-info {
+  background: var(--glass-bg) !important;
+  backdrop-filter: blur(var(--glass-blur)) !important;
+  -webkit-backdrop-filter: blur(var(--glass-blur)) !important;
 }
-
-/* 文章页面正文背景 */
-div#post{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-/* 分页页面 */
-div#page{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-/* 归档页面 */
-div#archive{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-/* 标签页面 */
-div#tag{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-/* 分类页面 */
-div#category{
-  background: rgba(255, 255, 255, var(--glassmorphism-opacity));
-  backdrop-filter: blur(var(--glassmorphism-blur));
-  border-radius: var(--glassmorphism-radius);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-/* 页脚透明 */
-#footer{
-  background: transparent!important;
-}
-/* 页脚黑色透明玻璃效果移除 */
-#footer::before{
-    background: transparent!important;
-  }
-/* 头图透明 */
-#page-header{
-  background: transparent!important;
-}
-/* 头图遮罩层透明 */
-#page-header::before{
-  background: transparent!important;
-  }
-/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
-#page-header.post-bg:before {
-  background-color: transparent!important;
-}
-/*夜间模式伪类遮罩层透明*/
-[data-theme="dark"]
-  #footer::before{
-      background: transparent!important;
-    }
-[data-theme="dark"]
-  #page-header::before{
-    background: transparent!important;
-    }
-
-
