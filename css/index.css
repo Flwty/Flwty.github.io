@@ -8025,7 +8025,7 @@ body {
 #post, #page, #archive, #tag, #category,
 .card-widget,
 #recent-posts > .recent-post-item {
-  color: rgba(0, 0, 0, 0.88) !important;
+  /* color: rgba(0, 0, 0, 0.88) !important; */
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
 }
 
@@ -8034,7 +8034,7 @@ body {
 #page h1, #page h2, #page h3,
 .card-widget h3, .card-widget h4, .card-widget h5,
 #recent-posts .recent-post-item h2 {
-  color: rgba(0, 0, 0, 0.95) !important;
+  /* color: rgba(0, 0, 0, 0.95) !important; */
   font-weight: 600 !important;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
