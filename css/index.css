@@ -8036,11 +8036,19 @@ div#category {
 }
 
 /* 首页文章卡片 */
-#recent-posts > .recent-post-item{
+/* #recent-posts > .recent-post-item{
   background: rgba(255, 255, 255, var(--glassmorphism-opacity));
   backdrop-filter: blur(var(--glassmorphism-blur));
   border-radius: var(--glassmorphism-radius);
   border: 1px solid rgba(255, 255, 255, 0.2);
+} */
+
+#recent-posts > .recent-post-items>.recent-post-item{
+  background:rgba(255,255,255,var(--glassmorphism-opacity));
+  -webkit-backdrop-filter:blur(var(--glassmorphism-blur));
+  backdrop-filter:blur(var(--glassmorphism-blur));
+  border-radius:var(--glassmorphism-radius);
+  border:1px solid rgba(255,255,255,0.2)
 }
 
 /* 首页侧栏卡片 */
@@ -8120,3 +8128,5 @@ div#category{
   #page-header::before{
     background: transparent!important;
     }
+
+
